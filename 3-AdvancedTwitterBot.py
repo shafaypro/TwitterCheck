@@ -6,10 +6,10 @@ import datetime
 import urllib.request
 import json  # importing the json header file
 #from DataManager import DataManager
-ckey = 'Ru74Ybfzyws3q2JSNZTOUv4gv'
-csecret = 'auVpDi7tbPR6K9hARUDPx58GwdmB24VyAOenXg6jfJ2uiK03nZ'
-atoken = '558084273-QWy1ZFg5ZO6G0BvuJbVAyZNxinUfKERLmWfPPMBc'
-asecret = 'PjA8TYtCNUyc1dhDv7BqWeCQstDx2fbGn8ZrqXitxkPet'
+ckey = '#'
+csecret = '#'
+atoken = '#'
+asecret = '#'
 # Below is just a message to show the consumer , access keys and secret tokens.
 print("Consumer Key: ", ckey)
 print("Consumer secret: ", csecret)
